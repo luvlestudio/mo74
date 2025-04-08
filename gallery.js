@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "경훈 ♥ 은지의 모바일 청첩장",
         description: "2025년 6월 7일 토요일♡",
-        imageUrl: "https://i.imgur.com/uqYDrxm.png",
+        imageUrl: "https://i.imgur.com/75T9hC4.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
